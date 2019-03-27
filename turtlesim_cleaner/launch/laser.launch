@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="turtlesim_cleaner" type="scan.py" name="scan_values" output="screen"></node>
+</launch>
